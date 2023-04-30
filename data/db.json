@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "username": "hridoy",
+      "email": "hridoy2453@gmail.com",
+      "password": "fdffdf",
+      "id": 1
+    },
+    {
+      "username": "hridoy",
+      "email": "hridoy2453@gmail.com",
+      "password": "fdffdf",
+      "id": 2
+    },
+    {
+      "username": "khalid",
+      "email": "khalid@test.com",
+      "password": "fdffdf",
+      "id": 3
+    },
+    {
+      "username": "khalid",
+      "email": "khalid@test.com",
+      "password": "fdffdf",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "contact": "123",
+      "address": "korea",
+      "id": 1
+    },
+    {
+      "name": "BFC",
+      "contact": "234",
+      "address": "khulna",
+      "id": 2
+    },
+    {
+      "name": "JFC",
+      "contact": "345",
+      "address": "Italy",
+      "id": 3
+    }
+  ]
+}
